@@ -16,7 +16,7 @@ This simulator is built on a hypothetical policy idea I developed called the **G
 
 This is a simple command-line tool. You don't need to edit the code to use it.
 
-**1. Setup:**
+
 Make sure you have the required Python libraries.
 ```bash
 pip install matplotlib numpy
